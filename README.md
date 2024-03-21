@@ -27,6 +27,9 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+
+#DEVELOPED BY: M THEJESWARAN
+#Reg no: 212223240168
 ```
 module exp22(A,B,C,D,F1);
 input A,B,C,D;
